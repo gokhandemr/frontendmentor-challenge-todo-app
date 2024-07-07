@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Todo app</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS -->
+    <link href="./style.css" rel="stylesheet" />
+  </head>
+  <body class="dark-theme">
+    <div class="bg-desktop"></div>
+    <div class="container">
+      <header>
+        <a href="/" class="logo">TODO</a>
+        <button class="theme-color"></button>
+      </header>
+
+      <section>
+        <form class="addTodoForm">
+          <div class="todo-complete-button">
+            <button></button>
+          </div>
+          <input
+            class="addTodoInput"
+            type="text"
+            placeholder="Create a new todo.."
+          />
+        </form>
+      </section>
+
+      <main class="todoList">
+        <ul></ul>
+        <div class="todo-details">
+          <p class="todo-count">0 items left</p>
+
+          <div class="details-wrapper">
+            <button class="all-todo" id="active">All</button>
+            <button class="active-button-todo">Active</button>
+            <button class="completed-button-todo">Completed</button>
+          </div>
+
+          <button class="clear-completed-button">Clear Completed</button>
+        </div>
+      </main>
+
+      <!-- Add dynamic number -->
+
+      <footer>
+        <div class="attribution">
+          Challenge by
+          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+            >Frontend Mentor</a
+          >. Coded by <a href="https://github.com/gokhandemr">Gökhan Demir</a>.
+        </div>
+      </footer>
+
+      <script src="./javascript.js"></script>
+    </div>
+  </body>
+</html>
