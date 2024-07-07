@@ -4,7 +4,7 @@
 
 Selamlar, ben bu projede frontendmentor.io sitesinde yer alan [_"Todo App"_](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW) projesini geliştirdim. Projede kullandığım diller: HTML, CSS, JavaScript.
 
-<!-- Demo: https://frontendmentor-challenge-room-homepage.vercel.app/ -->
+Demo: https://frontendmentor-challenge-todo-app-pearl.vercel.app/ 
 
 ---
 
