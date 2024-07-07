@@ -16,7 +16,6 @@ Demo: https://frontendmentor-challenge-todo-app-pearl.vercel.app/
 - Görevlerin tümünü, tamamlanmış olanları ve aktif olanları gösterecek şekilde filtereledim.
 - Tamamlanmış olan görevlerin tümünün silinmesini sağlayan buton ekledim.
 - Açık ve koyu tema seçenekleri ekledim.
-- Görevleri localStorage tarafında tutulmasını sağladım.
 
 ---
 
