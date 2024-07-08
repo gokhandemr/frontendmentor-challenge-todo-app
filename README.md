@@ -13,7 +13,7 @@ Demo: https://frontendmentor-challenge-todo-app-pearl.vercel.app/
 - İstenilen tasarımı bilgisayar, telefon ve tablet gibi tüm cihazlarda kullanıma uygun olacak şekilde yerine getirdim.
 - Tasarımın "Pixel Perfect" olmasına özen gösterdim.
 - Listede bulunan görevlere "tamamlandı" ve "sil" fonksiyonları ekledim.
-- Görevlerin tümünü, tamamlanmış olanları ve aktif olanları gösterecek şekilde filtereledim.
+- Görevlerin tümünü, tamamlanmış olanları ve aktif olanları gösterecek şekilde filtreledim.
 - Tamamlanmış olan görevlerin tümünün silinmesini sağlayan buton ekledim.
 - Açık ve koyu tema seçenekleri ekledim.
 
